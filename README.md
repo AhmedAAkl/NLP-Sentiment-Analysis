@@ -8,3 +8,7 @@ In this repo, I will use most of machine learning method to sentiment analysis s
 
 
 Term Frequency - Inverse Document Frequency [TF-IDF](http://www.tfidf.com/): is a statistical measure used to evaluate a weight for each word that signify the importantance of the word to a document in a collection or corpus. This method is a widely used technique in Information Retrieval and Text Mining.
+
+
+
+Donate with a start :)

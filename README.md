@@ -11,4 +11,4 @@ Term Frequency - Inverse Document Frequency [TF-IDF](http://www.tfidf.com/): is 
 
 
 
-Donate with a start :)
+Donate with a star :)
